@@ -1,13 +1,13 @@
 {
-    "name": "lunetics/locale-bundle",
+    "name": "instaclick/locale-bundle",
     "description": "A Bundle for switching Languages",
     "keywords": ["locale"],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Lunetics",
-            "homepage": "http://www.lunetics.com"
+            "name": "Instaclick",
+            "homepage": "http://www.instaclick.com"
         }
     ],
     "require": {
